@@ -10,7 +10,7 @@ FuzzMaster is a Python-based fast web fuzzer 🕵️ designed to identify web ap
 
 🔒 Automated Testing: FuzzMaster automates the process of generating and testing inputs, making it efficient for discovering vulnerabilities in your software.
 
-🔑 Popular wordlist : it use popular wordlist of [![fuff](https://github.com/ffuf/ffuf) in backend for better result
+🔑 Popular wordlist : it use popular wordlist of [fuff](https://github.com/ffuf/ffuf) in backend for better result
 
 🛠️Result store : it also store it last scan result in scan_result.txt in same directory
 
